@@ -10,5 +10,15 @@ WGAN 설명과 관련.
 
 ## then, what is WGAN? 
 
-
-
+wasserstein GAN ?  
+  
+  
+Wasserstein distance를 이용해서 만듦.  
+regular gan의 경우 convergence를 보장할 수가 없다. 그리고 discriminator관련해서 gradient가 구하기 힘든데, wasserstein의 function(WGAN critic)을 이용하면 gradient를 smoother하게 해줍니다.  
+  
+metric = 일반적으로 생각하는 수학적인 개념  
+divergence = metric 성질의 1번만 만족하는 함수  
+  
+wasserstein GAN는 가능한 분포에서 분포를 옮기는데 필요한 cost중 가장 적을값(infimum)을 Wasserstein GAN이라고 한다.(delta 는 y축의두께)  
+  
+ 
