@@ -36,3 +36,5 @@
   
   multilinuality? 회의적 (영어로 한걸 중국어로 배우는게 제로샷으로 성능은 나오긴하지만, 회의적)
   MathQA
+  MER vs SEQ2SEQ
+  
