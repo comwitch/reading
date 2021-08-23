@@ -38,3 +38,5 @@
   MathQA
   MER vs SEQ2SEQ
   
+  
+  9월부터는 수요일 오후4시
