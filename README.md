@@ -27,4 +27,11 @@ wasserstein GAN는 가능한 분포에서 분포를 옮기는데 필요한 cost�
   참고자료 : [Oh Q-learning.pdf](https://github.com/comwitch/reading/files/7064130/Oh.Q-learning.pdf)
 
 ## DQN, Double Q-learning, Duel Q-learning
+
+### MDP
+Markov disicion process 요약 : 오늘일은 어제일에 영향을받지만, 그전단계의일에 대해서는 무시하는 방향성으로 간다고 요약하면됨
+ 미래의 일은 바로 현재일만 영향을 미친다.
+ 
+ ### DQN 
+ Q value function 을 이용해서 하나의 value function으로 learning을 시킴
  
