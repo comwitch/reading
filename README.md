@@ -21,4 +21,10 @@ divergence = metric 성질의 1번만 만족하는 함수
   
 wasserstein GAN는 가능한 분포에서 분포를 옮기는데 필요한 cost중 가장 적을값(infimum)을 Wasserstein GAN이라고 한다.(delta 는 y축의두께)  
   
+  
+  # 8월 27일 세미나 (오승상교수님)
+  참고자료 : [Oh DQN.pdf](https://github.com/comwitch/reading/files/7064128/Oh.DQN.pdf)
+  참고자료 : [Oh Q-learning.pdf](https://github.com/comwitch/reading/files/7064130/Oh.Q-learning.pdf)
+
+## DQN, Double Q-learning, Duel Q-learning
  
