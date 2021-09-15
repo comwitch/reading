@@ -32,6 +32,7 @@
   dataset에 normaliztion을 해놓고 문제를해결.
   does the normalization utrilizes informations in language?
   
+  
   GPT2 GPT3 
   
   multilinuality? 회의적 (영어로 한걸 중국어로 배우는게 제로샷으로 성능은 나오긴하지만, 회의적)
@@ -40,3 +41,8 @@
   
   
   9월부터는 수요일 오후4시
+  
+  
+  # 0915 meeting
+  
+  bio ==> inblance?
