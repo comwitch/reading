@@ -35,3 +35,6 @@ Markov disicion process 요약 : 오늘일은 어제일에 영향을받지만, �
  ### DQN 
  Q value function 을 이용해서 하나의 value function으로 learning을 시킴
  
+### dueling DQN
+  identifiability issue ==> q = v + a 이므로 v 와 a가 unique하게 정해지지 않을 수도 있는 issue
+  
